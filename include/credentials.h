@@ -1,3 +1,4 @@
+#include <IPAddress.h>
 const char *ssid = "my-ssid";        // your network SSID (name)
 const char *password = "my-wifi-password"; // your network password
 
