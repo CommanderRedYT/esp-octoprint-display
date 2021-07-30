@@ -22,6 +22,15 @@ It uses a **ESP8266** *(tested)* or **ESP32** *(not tested)* for controlling a 1
 # Configure
 To configure the code, go into `include/credentials.h`. There you can find all of the available options.
 
+# Wiring
+
+| Pin      | Function      |
+|:--------:|:-------------:|
+|D5|Button connected to GND|
+|D1|I2C Clock|
+|D2|I2C Data|
+|VIN|5V from usb cable. Also it is connected to 5V from the LCD|
+
 # Images
 ![Image 1](/images/1.jpg?raw=true)
 ![Image 2](/images/2.jpg?raw=true)
