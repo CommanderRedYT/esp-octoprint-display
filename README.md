@@ -32,7 +32,7 @@ To configure the code, go into `include/credentials.h`. There you can find all o
 |VIN|5V from usb cable. Also it is connected to 5V from the LCD|
 
 # Images
-![Image 1](/images/1.jpg?raw=true)
-![Image 2](/images/2.jpg?raw=true)
-![Image 3](/images/3.jpg?raw=true)
-![Image 4](/images/4.jpg?raw=true)
+|   |   |
+|---|---|
+| <img src="/images/1.jpg" width="250" /> | <img src="/images/2.jpg" width="250" /> |
+| <img src="/images/3.jpg" width="250" /> | <img src="/images/4.jpg" width="250" /> |
